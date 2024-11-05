@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cuatrimestre10\\ProgramaciondeAplicacionesProgresivas\\GestorEmpleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|d:\\cuatrimestre10\\programaciondeaplicacionesprogresivas\\gestorempleados\\gestorempleados\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|d:\\cuatrimestre10\\programaciondeaplicacionesprogresivas\\gestorempleados\\gestorempleados\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|d:\\cuatrimestre10\\programaciondeaplicacionesprogresivas\\gestorempleados\\gestorempleados\\models\\respuestadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\models\\respuestadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|d:\\cuatrimestre10\\programaciondeaplicacionesprogresivas\\gestorempleados\\gestorempleados\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|d:\\cuatrimestre10\\programaciondeaplicacionesprogresivas\\gestorempleados\\gestorempleados\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RespuestaDB.cs",
+              "DocumentMoniker": "D:\\Cuatrimestre10\\ProgramaciondeAplicacionesProgresivas\\GestorEmpleados\\GestorEmpleados\\Models\\RespuestaDB.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Models\\RespuestaDB.cs",
+              "ToolTip": "D:\\Cuatrimestre10\\ProgramaciondeAplicacionesProgresivas\\GestorEmpleados\\GestorEmpleados\\Models\\RespuestaDB.cs",
+              "RelativeToolTip": "GestorEmpleados\\Models\\RespuestaDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:04:22.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "D:\\Cuatrimestre10\\ProgramaciondeAplicacionesProgresivas\\GestorEmpleados\\GestorEmpleados\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "D:\\Cuatrimestre10\\ProgramaciondeAplicacionesProgresivas\\GestorEmpleados\\GestorEmpleados\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "GestorEmpleados\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:51:00.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoData.cs",
+              "DocumentMoniker": "D:\\Cuatrimestre10\\ProgramaciondeAplicacionesProgresivas\\GestorEmpleados\\GestorEmpleados\\Data\\EmpleadoData.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Data\\EmpleadoData.cs",
+              "ToolTip": "D:\\Cuatrimestre10\\ProgramaciondeAplicacionesProgresivas\\GestorEmpleados\\GestorEmpleados\\Data\\EmpleadoData.cs",
+              "RelativeToolTip": "GestorEmpleados\\Data\\EmpleadoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:38:15.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cuatrimestre10\\ProgramaciondeAplicacionesProgresivas\\GestorEmpleados\\GestorEmpleados\\appsettings.json",
+              "RelativeDocumentMoniker": "GestorEmpleados\\appsettings.json",
+              "ToolTip": "D:\\Cuatrimestre10\\ProgramaciondeAplicacionesProgresivas\\GestorEmpleados\\GestorEmpleados\\appsettings.json",
+              "RelativeToolTip": "GestorEmpleados\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T00:51:41.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "D:\\Cuatrimestre10\\ProgramaciondeAplicacionesProgresivas\\GestorEmpleados\\GestorEmpleados\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Models\\Empleado.cs",
+              "ToolTip": "D:\\Cuatrimestre10\\ProgramaciondeAplicacionesProgresivas\\GestorEmpleados\\GestorEmpleados\\Models\\Empleado.cs",
+              "RelativeToolTip": "GestorEmpleados\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:37:31.024Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
