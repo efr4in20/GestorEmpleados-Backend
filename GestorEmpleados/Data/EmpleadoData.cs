@@ -87,7 +87,7 @@ namespace MiWebAPI.Data
         /// <summary>
         /// Actualiza un empleado
         /// </summary>
-        /// <param name="objeto"></param>
+        /// <param name="objeto"></param>---------Editado
         /// <returns></returns>
         public async Task<RespuestaDB> UpdateEmpleado(Empleado objeto)
         {
